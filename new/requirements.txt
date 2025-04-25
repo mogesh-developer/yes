@@ -1,0 +1,13 @@
+Flask==2.2.5
+Flask-SQLAlchemy==2.5.1
+Flask-Mail==0.9.1
+scikit-learn==1.0.2
+scipy==1.7.3
+requests==2.27.1
+openpyxl==3.0.10
+pandas==1.3.5
+gunicorn==21.2.0
+Cython==0.29.24
+SQLAlchemy==1.4.49
+flask-login==0.6.2
+b2sdk==1.27.0
